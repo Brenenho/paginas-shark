@@ -1,0 +1,22 @@
+{
+  "brandName": "Oilbase-20",
+  "domains": {
+    "getoilbase20.com": {"merchant": "buygoods", "brandName": "Oilbase-20"},
+    "oilbase20.com": {"merchant": "clickbank", "brandName": "Oilbase-20"},
+    "oilbase-20.elasticfunnels.io": {"merchant": "buygoods", "brandName": "Oilbase-20"}
+  },
+  "defaultMerchant": "",
+  "links": {
+    "contact": "https://getoilbase20.com/contact",
+    "privacy": "https://getoilbase20.com/privacy-policy",
+    "terms": "https://getoilbase20.com/terms-of-service",
+    "refunds": "https://getoilbase20.com/returns-and-refunds"
+  },
+  "merchants": {
+    "buygoods": {"accountId": "11772", "products": ["O202V1", "O203V1", "O206V1"], "conversionToken": "656b522308ee30608e5c5d8c559f07bb"},
+    "clickbank": {"vendor": "oilbase20"},
+    "digistore24": {}
+  },
+  "trackingEnabled": true,
+  "trackConversion": true
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Páginas Shark"
+  short_description: "Cria páginas de resposta direta no padrão Shark"
+  default_prompt: "Use $paginas-shark para criar esta página de resposta direta a partir das referências fornecidas."
+policy:
+  allow_implicit_invocation: false
